@@ -14,7 +14,7 @@ import sys
 #  1. INTEGER k
 #  2. INTEGER_ARRAY s
 # 더했을 때 나머지가 0인 경우는 두 수 모두 k의 배수인 경우 (n%k==0), t를 n%k의 값이라고 했을 때, 두 수가 t, k-t 인 경우이다.
-# 그걸 dict로 만들어서 문제 해결
+# 그걸 dict로 만들어서 문제 해결, 잘 생각해야할 예외가 있다면, check에 0과 k/2같은 경우에는 마지막에 +1을 해주기 때문에 연산에서 제외해야한다.
     
 def nonDivisibleSubset(k, s):
     divisibelDict = {       
