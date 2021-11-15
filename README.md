@@ -1,4 +1,4 @@
-# Algorithm
+Hacker Rank Alogrithm practice
 ## Week1
 - 문제링크
     1. [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)
