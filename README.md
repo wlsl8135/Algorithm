@@ -1,5 +1,5 @@
 # Algorithm
-##Week1
+## Week1
 - 문제링크
     1. [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)
     2. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=false)
